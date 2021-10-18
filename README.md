@@ -35,7 +35,10 @@ The notebook of project is divided on parts that are :
 
 ## Results
 The result can be shown below :
-
+* Displaying KMeans Clustering Results :
+![alt map](static/map.PNG "Map 1")
+* Displaying Constrained KMeans Clustering Results :
+![alt map](static/map_2.PNG "Map 1")
 
 ## Resources
 * [Random Point Generator](http://www.geomidpoint.com/random/)
